@@ -1,4 +1,5 @@
 ## 🎯 项目作品
+最新想学习一些**前端交互**的内容，希望能找到同好交流 q：2465225759
 - **[DataAgent智能体](https://github.com/SmileSnow819/DataAgent/tree/refactor/fronted-ui)** - DataAgent前端UI重构ing
 - **[moelian在线阅读平台](https://loc.longlian.online/manga)** - Nuxt 4 全栈阅读应用，支持漫画/小说
 - **[travel-api-cluster](https://smilesnow819.github.io/travel-api-cluster/)** - 全栈旅游预订平台，前后端分离架构
