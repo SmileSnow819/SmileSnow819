@@ -2,7 +2,7 @@
 - **[YukiBloom](https://yuki-bloom.vercel.app/)** - 个人博客
 - **[DataAgent智能体](https://github.com/spring-ai-alibaba/DataAgent)** - DataAgent前端UI重构
 - **[白箱](https://oa.longlian.online/)** - 汉化组流程管理OA系统
-- **[moelian在线阅读平台](https://loc.longlian.online/manga)** - Nuxt 4 全栈阅读应用，支持漫画/小说
+- **[moelian](https://loc.longlian.online/manga)** - Nuxt 4 全栈阅读应用，支持漫画/小说
 - **[sakura-offer](https://job.longlian.online/)** - 汇总了一些校招官网和求职工具
 - **[yuki-agnet-kit](https://github.com/SmileSnow819/yuki-agent-kit)** - 汇总一些个人经常使用的AI工作流，在新项目快速复用
 - **[travel-api-cluster](https://smilesnow819.github.io/travel-api-cluster/)** - 全栈旅游预订平台，前后端分离架构
